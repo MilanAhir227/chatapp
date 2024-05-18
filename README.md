@@ -24,17 +24,23 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 The page will reload when you make changes.\
 You may also see any lint errors in the console.
 
+<h1>login page</h1>
+
 ![login page](./screenshots/image.png)
 
 <!-- <img align="center" src="./screenshots/image.png" alt="login page" /> -->
 
+<h1>signup page</h1>
+
 ![signup page](./screenshots/image-1.png)
 
 <!-- <img align="center" src="./screenshots/image.png" alt="signup page" /> -->
+<h1>default chat page</h1>
 
 ![default chat page](./screenshots/image-2.png)
 
 <!-- <img align="center" src="./screenshots/image.png" alt="default chat page" /> -->
+<h1>chat page</h1>
 
 ![chat page](./screenshots/image-3.png)
 
