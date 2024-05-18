@@ -3,6 +3,9 @@
   "version": "1.0.0",
   "main": "",
   "scripts": {
+    "client-setup":"cd client && npm install",
+    "servet-setup":"cd server && npm install",
+    "setup":"npm run client-setup &&  npm run servet-setup",
     "start-client" : "cd client && npm start",
     "start-server": "cd server && npm run start"
   },

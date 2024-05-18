@@ -27,7 +27,7 @@ mongoose
   .then(() => console.log("Connected!"));
 
 app.use('/api', indexRouter);
-app.use('/helth', (req,res)=>{
+app.use('/health', (req,res)=>{
   res.send("workin...!")
 });
 
